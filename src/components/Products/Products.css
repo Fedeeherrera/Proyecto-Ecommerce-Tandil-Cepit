@@ -1,0 +1,42 @@
+.productCardContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 50px;
+    text-align: center;
+}
+
+.card {
+    margin: 50px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 10px;
+    color: white;
+    background-color: crimson;
+    text-align: center;
+    cursor: pointer;
+    width: 180px;
+    font-size: 20px;
+}
+
+.card button:hover {
+    opacity: .7;
+}
+
+.products-h2-map {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+.img-map {
+    height: 220px;
+    width: 180px;
+}
+
+.products-h3-map {
+    margin: 20px 0;
+}
