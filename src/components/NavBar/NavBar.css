@@ -13,6 +13,6 @@ nav > a {
   color: whitesmoke;
 
   &:hover {
-    color: red;
+    color: rgb(255, 98, 0);
   }
 }
